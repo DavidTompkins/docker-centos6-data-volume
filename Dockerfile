@@ -1,4 +1,4 @@
-FROM centos6-base
+FROM dtompkins/centos6-base:latest
 MAINTAINER David Tompkins <tompkins@adobe.com>
 
 # Exposed data volumes

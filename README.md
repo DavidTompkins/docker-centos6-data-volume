@@ -1,4 +1,4 @@
-# docker-centos6-data-volume-container
+# docker-centos6-data-volume
 
 Docker container to serve shared data volumes for file system persistence in other containers.
 
@@ -8,7 +8,7 @@ Based on docker-centos6-base: [![https://github.com/DavidTompkins/docker-centos6
 
 ## Build
 
-run "build.sh", image is tagged as "centos6-data-volume-container".
+run "build.sh", image is tagged as "centos6-data-volume".
 
 ## Deploy
 
